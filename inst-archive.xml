@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inst:installationArchive xmlns:inst="http://www.boomi.com/inst">
+    <inst:revisions>
+        <inst:revision componentId="0123456-789a-bcde-f012-3456789abcde" version="1" />
+    </inst:revisions>
+    <inst:environmentId>345678-90ab-cdef-1234-567890abcdef</inst:environmentId>
+    </inst:installationArchive>
